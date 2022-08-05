@@ -16,6 +16,11 @@ ${time}`
             // print the variable time to the console with a message
             console.log(` **** Scheduling an appointment for ${time} ****`)
 
+            // if time is not provided, use the current time
+            if (!time) {
+                time = new Date().toLocaleTimeString()
+            }
+
             const response = await fetch(configuration.SchedulerEndpoint + "/schedule", { method: "post", body: { time: time } })
             // const response = await fetch(configuration.SchedulerEndpoint , { method: "post", body: { time: time } })
             let responseText = `An appointment is set for ${time}.`

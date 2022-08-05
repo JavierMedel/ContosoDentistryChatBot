@@ -25,7 +25,6 @@ class IntentRecognizer {
     async executeLuisQuery(context) {
         return await this.recognizer.recognize(context);
     }
-
  
     getTimeEntity(result) {
         // const datetimeEntity = result.entities.datetime;
