@@ -1,0 +1,12 @@
+MICROSOFTAPPID=d8315a92-fa4b-4f31-9c2b-dd5ddcc82cc5
+MICROSOFTAPPPASSWORD=fVf8Q~XmvgfphLCNIgJnGYSLDj6EQ9_J-mLDdb.m
+
+QNAKNOWLEDGEBASEID=b48c5a98-ebaf-4dd5-bc11-752f383c473c
+QNAAUTHKEY=d8259fbc-7645-4296-881d-7b53fcec23bb
+QNAENDPOINTHOSTNAME=
+
+LUISAPPID=c10f1ff8-b9cd-421e-a3ac-04fa9ee14bf5
+LUISAPIKEY=8bcd7af39ec94c9f8deb32767a0517f8
+LUISAPIHOSTNAME=https://dental-assistant-luis.cognitiveservices.azure.com/
+
+SCHEDULERENDPOINT=https://dentist-scheduler-app.azurewebsites.net
