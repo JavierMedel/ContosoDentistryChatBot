@@ -1,0 +1,8 @@
+Static URL
+https://ev-dental-assistant-appservice.scm.azurewebsites.net/wwwroot/ContosoDentistryWebsite/
+
+Github Repo
+https://github.com/JavierMedel/ContosoDentistryChatBot
+
+Github To Static Web App repo
+https://github.com/JavierMedel/ContosoDentistryChatBot/tree/main/ContosoDentistryWebsite
